@@ -7,8 +7,6 @@ public class PokerCard {
 	
 	public PokerCard(int value) {
 		this.value = value;
-		
-		System.out.print("");
 	}
 
 }

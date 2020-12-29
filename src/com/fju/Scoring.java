@@ -8,7 +8,7 @@ public class Scoring {
 		if(average<=60) {
 			System.out.println("I am sorry");
 		}else {
-			System.out.println("Congrdulation");
+			System.out.println("Congratulation");
 		}
 		
 		//System.out.println(stu1);

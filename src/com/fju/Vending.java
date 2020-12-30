@@ -21,7 +21,12 @@ public class Vending {
 			BufferedReader br = new BufferedReader(isr);
 			String s = br.readLine();
 			System.out.println(s);
-			
+			 s = br.readLine();
+			System.out.println(s);
+			 s = br.readLine();
+			System.out.println(s);
+			 s = br.readLine();
+			System.out.println(s);
 		}catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}catch (IOException e) {
